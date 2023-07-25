@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "336012408485",
+    "project_id": "iitdelectronicsmarket",
+    "storage_bucket": "iitdelectronicsmarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336012408485:android:0c2df38015d0b240237f4c",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336012408485-j48gh7ea73km5f4ph3s08akdvth8k7sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADjukPj6XrGZ974uVG_t478KcChcK_3c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336012408485-j48gh7ea73km5f4ph3s08akdvth8k7sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "336012408485-bl63j9q7on456dvp7kqv81d6cmsth6fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
